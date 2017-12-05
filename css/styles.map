@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/styles.css",
+	"sources": [
+		"../scss/styles.scss"
+	],
+	"sourcesContent": [
+		"\n.box-1 {\n    width: 300px;\n    height: 300px;\n    background-color: green;\n    text-align: center;\n    float: left;\n    margin: 10px;\n    transition: width 2s;\n}\n\n.box-2 {\n    width: 300px;\n    height: 300px;\n    background-color: yellow;\n    text-align: center;\n    float: left;\n    margin: 10px;\n    transition: width 2s;\n}\n\n.box-3 {\n    width: 300px;\n    height: 300px;\n    background-color: red;\n    text-align: center;\n    float: left;\n    margin: 10px;\n    transition: width 2s;\n}\n\ndiv:hover {\n    width: 200px;\n}"
+	],
+	"mappings": ";AACA,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,KAAM;EACd,gBAAgB,EAAE,KAAM;EACxB,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,QAAS;CACxB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,KAAM;EACd,gBAAgB,EAAE,MAAO;EACzB,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,QAAS;CACxB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,KAAM;EACd,gBAAgB,EAAE,GAAI;EACtB,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,QAAS;CACxB;;;AAED,AAAG,GAAA,AAAA,MAAM,CAAC;EACN,KAAK,EAAE,KAAM;CAChB",
+	"names": []
+}
